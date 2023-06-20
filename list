@@ -1,0 +1,3 @@
+y=["sajan","sijo","joice"]
+y[1]="sona"
+print(type(y))
