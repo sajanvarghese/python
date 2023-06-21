@@ -15,7 +15,7 @@ dict={
 list30=["april","june","July","september","november"]
 list31=["january","march","August","october","December"]
 list28=["February"]
-day=input("what yoy want day/month ? ::")
+day=input("what yoy want day/month ? :: ")
 if day =="day":
  number=int(input("Enter the number of days"))
  if number==31:
